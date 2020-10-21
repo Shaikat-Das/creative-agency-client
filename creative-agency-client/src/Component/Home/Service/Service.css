@@ -1,0 +1,54 @@
+.span{
+   
+    color: green;
+}
+.service{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 200px;
+}
+
+img.logo{
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 32%;
+   
+}
+
+img.logo:hover {
+    opacity: 0.5;
+    height: 120px;
+    width: 120px;
+    
+}
+/* card 1 */
+.card1{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+
+.card1:hover{
+    border: 1px solid orange;
+    box-shadow: 10px 10px 10px lightgray;
+}
+/* card 2 */
+
+.card2{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.card2:hover{
+    border: 1px solid pink;
+    box-shadow: 10px 10px 10px lightgray;
+}
+/* card 3 */
+
+.card3{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.card3:hover{
+    border: 1px solid violet;
+    box-shadow: 10px 10px 10px lightgray;
+}

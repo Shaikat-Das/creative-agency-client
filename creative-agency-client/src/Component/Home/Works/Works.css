@@ -1,0 +1,39 @@
+.work {
+    margin-bottom: 100px;
+}
+
+.d-block {
+    width: 500px;
+    height: 300px;
+   margin: 0 auto;
+   padding-top: 50px;
+}
+
+h3{
+    color: Black;
+    margin-top: 10px;
+    
+    
+}
+
+p{
+    color: Black;
+    margin-top: 10px;
+    
+}
+
+h3:hover{
+    color:olivedrab;
+    background-color: pink;
+    background-size: 500px;
+}
+
+p:hover{
+    color:olivedrab;
+    background-color: pink;
+   
+}
+h2{
+    text-align:center;
+    
+}
